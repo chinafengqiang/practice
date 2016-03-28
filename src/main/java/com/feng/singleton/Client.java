@@ -6,5 +6,6 @@ package com.feng.singleton;
 public class Client {
     public static void main(String[] args){
         Singleton5.INSTANCE.print();
+
     }
 }
